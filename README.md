@@ -59,7 +59,7 @@ A análise comparativa completa, avaliando critérios como precisão, tempo de t
 
 A conclusão indicou que, para a tarefa de classificação de imagens com um único objeto, a **CNN treinada do zero** ofereceu o melhor equilíbrio entre performance e simplicidade. Para a tarefa mais complexa de detecção e localização, a **YOLO Adaptável** se mostrou promissora, embora exija um dataset mais robusto para atingir uma precisão ideal.
 
-Para observar as imagens de testes preditas pelos modelos YOLO basta acessar a pasta "Resultados_YOLO_padrao" para o modelo YOLO padrão e "Resultados_YOLO_adaptavel" para o modelo YOLO adaptável e para observar os testes preditos pela CNN basta abrir o Colab e axecutar as células de código.
+Para observar as imagens de testes preditas pelos modelos YOLO basta abrir as imagens com o nome  "YOLO padrão" para o modelo YOLO padrão e "YOLO adaptável" para o modelo YOLO adaptável, ou caso preferir as imagens estarão também no Drive compartilhado acima, e para observar os testes preditos pela CNN basta abrir o Colab e executar as células de código. O
 
 ---
 
